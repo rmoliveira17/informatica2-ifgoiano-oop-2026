@@ -1,0 +1,10 @@
+# Project dependencies - add one package per line
+# Examples:
+# requests==2.31.0
+# numpy>=1.26
+
+# Detected project dependencies
+pandas>=1.5
+numpy>=1.25
+
+# Add any other required packages below
