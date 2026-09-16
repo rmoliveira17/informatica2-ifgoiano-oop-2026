@@ -74,7 +74,7 @@ def cadastrar_produtos():
 
             except ValueError:
 
-                print("  Entrada inválida. Digite um número decimal (ex.: 12.50).")
+                print("Entrada inválida. Digite um número decimal (ex.: 12.50).")
 
  
 
